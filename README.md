@@ -90,5 +90,4 @@ python app.py
 ```
 Navigate to `http://127.0.0.1:5001` in your browser!
 
----
-*Developed with ❤️ for Agricultural AI*
+
